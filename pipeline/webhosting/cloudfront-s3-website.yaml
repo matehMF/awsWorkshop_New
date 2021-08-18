@@ -28,7 +28,7 @@ Resources:
     Type: AWS::S3::Bucket
     Properties:
       BucketName: !Join ['', [ !Ref 'WorkshopHostname', '.', !Ref 'DomainName']]
-      AccessControl: "BucketOwnerFullControl"  
+      AccessControl: "BucketOwnerFullControl" 
       VersioningConfiguration:
         Status: Enabled 
       BucketEncryption:
@@ -55,8 +55,8 @@ Resources:
           Principal: '*'
           Condition:
             Bool:
-              aws:SecureTransport: false 
-
+              aws:SecureTransport: false
+              
   WebsiteCloudFront:
     Type: AWS::CloudFront::Distribution
     Properties:
