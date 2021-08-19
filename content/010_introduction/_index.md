@@ -6,6 +6,8 @@ weight: 1
 
 ![UFT One](/images/010_introduction/uft-one-logo.jpeg)
 
+# Accelerate test automation
+
 The world’s biggest names in finance, healthcare, retail, and technology use Micro Focus [UFT One](https://www.microfocus.com/products/uft-one/overview) to test continuously with confidence. Our premium, industry-standard functional test automation solution helps organizations test earlier and more often while driving continuous quality. With the advent of intelligent automation into the world of testing, UFT One now delivers the speed and resiliency required to achieve automation at scale across an integrated DevOps ecosystem of lifecycle management and continuous integration tools.
 
 #### Learn More
