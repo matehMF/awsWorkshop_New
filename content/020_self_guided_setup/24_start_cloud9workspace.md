@@ -1,6 +1,6 @@
 ---
 title: "3. Create a Workspace"
-chapter: true
+chapter: false
 weight: 14
 ---
 

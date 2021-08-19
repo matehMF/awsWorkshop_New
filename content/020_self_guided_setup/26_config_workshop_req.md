@@ -1,6 +1,6 @@
 ---
 title: "4. Configure workshop specific requirements"
-chapter: true
+chapter: false
 weight: 18
 ---
 

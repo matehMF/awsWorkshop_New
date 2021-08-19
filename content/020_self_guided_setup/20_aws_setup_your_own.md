@@ -1,6 +1,6 @@
 ---
 title: "1. AWS Account Setup"
-chapter: true
+chapter: false
 weight: 10
 ---
 
