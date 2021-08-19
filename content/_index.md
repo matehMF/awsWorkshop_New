@@ -1,10 +1,20 @@
 ---
-title: "Home"
+title: "Main Page"
 chapter: true
 weight: 1
 ---
 
-# AWS DevOps Workshop for Micro Focus
-In this workshop, you will learn why AI-based testing is an essential DevOps practice that builds quality into your application delivery pipeline.
+# AWS DevOps Workshop with Micro Focus
+Today, we are going to learn why AI-based testing in UFT One is an essential DevOps practice that builds quality into your application delivery pipeline.
 
-![Micro Focus ADM](/images/home/adm.PNG)
+#### Workshop Structure
+This workshop is broken into the following sections.
+
+* Section 1
+* Section 2
+* Section 3
+
+#### Expected Duration
+Estimated time for completing the workshop is 1.5-2.5 hours.
+
+![Micro Focus ADM](/images/main/adm.PNG)
