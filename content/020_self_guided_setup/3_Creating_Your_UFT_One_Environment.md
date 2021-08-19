@@ -26,4 +26,4 @@ In this section we will explain how to set up your UFT One environment from the 
 ![Step 3](/images/020_self_guided_setup/uft_ami_details.png)
 
 1. Select the **UFT 15_02 update...**, open **Actions** and select **Launch**.
-![Step 3](/images/020_initiate_uftone_instance/ami_launch.png)
+![Step 3](/images/020_self_guided_setup/ami_launch.png)
