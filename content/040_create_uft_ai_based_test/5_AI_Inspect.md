@@ -2,7 +2,6 @@
 title: "Test Objects Identification using AI Inspect"
 chapter: false
 weight: 45
-pre: "<b>4.5 </b>"
 ---
 
 ## UFT One AI Inspect overview
@@ -35,7 +34,7 @@ In the following steps, we will add an AI-based test step using **AI Identificat
 
 	The **AI Identification View** displays an image of the application, and highlights all of the detected **Visual Element** objects on the page.
 
-	![step 1](/images/40_Create_UFT_AI_Based_Test/ai_inspect_visual_element.PNG)
+	![step 1](/images/040_create_uft_ai_based_test/ai_inspect_visual_element.PNG)
 
 	Drag and drop the visual element **"+"** button object to the test, just before the **Add to Cart** step, to select an additional quantity of the item chosen.
 

@@ -2,7 +2,6 @@
 title: "Getting Started"
 chapter: false
 weight: 41
-pre: "<b>4.1 </b>"
 ---
 
 ## AI-based testing overview
@@ -31,7 +30,7 @@ In **UFT One 15.0.2**, the AI features are enabled by default. If you ever need 
 
 2. In the Add-in Manager window that shows up by default when you start UFT One, ensure that only the **Web Add-in** is selected. Clear all other Add-ins, and then click OK to open UFT One.
 
-	![step 1](/images/40_Create_UFT_AI_Based_Test/add-in_manager.PNG)
+	![step 1](/images/040_create_uft_ai_based_test/add-in_manager.PNG)
 
 3. From UFT One's menu, click **File > New > New Solution**.
 
@@ -47,10 +46,10 @@ In **UFT One 15.0.2**, the AI features are enabled by default. If you ever need 
 
 	A blank test opens, showing the AOS_Web test flow in the canvas, and another tab with a blank action, named Action1.
 
-	![step 2](/images/40_Create_UFT_AI_Based_Test/action_flow.PNG)
+	![step 2](/images/040_create_uft_ai_based_test/action_flow.PNG)
 
 7. Click on the **Action1** tab to continue with the test design
 
 	The AI-based features in UFT One are accessed via the highlighted icons on the UFT One toolbar below:
 
-	![step 3](/images/40_Create_UFT_AI_Based_Test/ai_toolbar_icons.png)
+	![step 3](/images/040_create_uft_ai_based_test/ai_toolbar_icons.png)

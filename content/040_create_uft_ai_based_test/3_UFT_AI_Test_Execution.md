@@ -2,7 +2,6 @@
 title: "Run/Debug UFT One AI-based Tests"
 chapter: false
 weight: 43
-pre: "<b>4.3 </b>"
 ---
 
 ## UFT One Test Execution
@@ -13,7 +12,7 @@ You can configure the behavior of test recording and execution in the **Record a
 
 1. From the UFT One menu, Select **Record > Record and Run Settings**.
 
-	![step 1](/images/40_Create_UFT_AI_Based_Test/RnR_toolbar.png)
+	![step 1](/images/040_create_uft_ai_based_test/RnR_toolbar.png)
 
 2. Under the **Web** tab, select the following options to configure UFT One to open the AOS URL using Microsoft Internet Explorer for the run.
 
@@ -25,20 +24,20 @@ You can configure the behavior of test recording and execution in the **Record a
 
 	* **Browser: Microsoft Internet Explorer**
 
-	![step 2](/images/40_Create_UFT_AI_Based_Test/RnR_settings.png)
+	![step 2](/images/040_create_uft_ai_based_test/RnR_settings.png)
 
-	Click on **OK** 
+	Click on **OK**
 
-3. You should also configure UFT One to save screenshots in the test results. 
+3. You should also configure UFT One to save screenshots in the test results.
 
 	To enable screenshot capture in the test results, navigate to **Tools > Options > GUI Test > Screen Capture** and select
 
 	* **Save still image captures to results: Always**
 
-	![step 3](/images/40_Create_UFT_AI_Based_Test/screen_capture.PNG)
+	![step 3](/images/040_create_uft_ai_based_test/screen_capture.PNG)
 
-	Click on **OK** 
-	
+	Click on **OK**
+
 4. Click the **Run** button from UFT One's toolbar to execute the test
 
 Alternatively the following lines can be added at the beginning of the test to open Microsoft Internet Explorer and navigate to the AOS URL
@@ -81,7 +80,7 @@ Alternatively the following lines can be added at the beginning of the test to o
 
 	Refer to the [UFT One online help](https://admhelp.microfocus.com/uft/en/15.0-15.0.2/UFT_Help/Subsystems/OMRHelp/Content/AI/AIPackageLib~AIRunSettings.html?Highlight=AIUtil) for complete details regarding **AIRunSettings Object**
 
-4. If AI-based object identification is not working properly and needs to update an AI-based test step, refer to the [Test Objects Identification using AI Inspect](/40_create_uft_ai_based_test/5_ai_inspect.html) section for details.
+4. If AI-based object identification is not working properly and needs to update an AI-based test step, refer to the [Test Objects Identification using AI Inspect](/040_create_uft_ai_based_test/5_ai_inspect.html) section for details.
 
 5. For additional recommendations on writing AI-based tests, read the [Tips and tricks for AI-based testing](https://admhelp.microfocus.com/uft/en/15.0-15.0.2/UFT_Help/Content/User_Guide/AI-based-testing-tips-and-tricks.htm) article on the UFT One online help.
 

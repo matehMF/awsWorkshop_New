@@ -2,7 +2,6 @@
 title: "Test Objects Identification using Application Mockups"
 chapter: false
 weight: 46
-pre: "<b>4.6 </b>"
 ---
 
 ## AI Mockup Identification overview
@@ -19,7 +18,7 @@ Use **AI Mockup Identification** to inspect application mockups and identify obj
 
 1. In the UFT One toolbar, click the down arrow near the **AI Identification** button  and select the **AI Mockup Identification**.
 
-	![step 1](/images/40_Create_UFT_AI_Based_Test/ai_mockup.png)
+	![step 1](/images/040_create_uft_ai_based_test/ai_mockup.png)
 
 	In the dialog box that opens, select a folder containing images, select Web or Mobile as the AI identification context, and click Open.
 
@@ -57,11 +56,11 @@ As a prerequisite, store the AOS application images in **.jpg, .jpeg, or .png** 
 
 	**Select the AI identification context: Web**
 
-	![step 2](/images/40_Create_UFT_AI_Based_Test/mockup_images.PNG)
+	![step 2](/images/040_create_uft_ai_based_test/mockup_images.PNG)
 
 3. Choose the AOS home Mockup image, the **AI Mockup Identification View** inspects the **Visual Elements** from the image by default
 
-	![step 3](/images/40_Create_UFT_AI_Based_Test/mockup_identification1.PNG)
+	![step 3](/images/040_create_uft_ai_based_test/mockup_identification1.PNG)
 
 	Drag and drop the **Profile** visual element from the Mockup identification to your test step
 
@@ -71,7 +70,7 @@ As a prerequisite, store the AOS application images in **.jpg, .jpeg, or .png** 
 
 	**AI Mockup Identification View** inspects the **Visual Elements** from the image as below
 
-	![step 4](/images/40_Create_UFT_AI_Based_Test/mockup_identification2.PNG)
+	![step 4](/images/040_create_uft_ai_based_test/mockup_identification2.PNG)
 
 	Drag and drop the **Username, Password** input fields and **LOGIN** visual elements from the Mockup identification to your test step
 

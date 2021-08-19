@@ -2,7 +2,6 @@
 title: "Record UFT One AI-based Tests"
 chapter: false
 weight: 42
-pre: "<b>4.2 </b>"
 ---
 
 ## AI Recording Overview
@@ -32,7 +31,7 @@ The following steps are for recording the business flow of logging into the Adva
 	You can drag the AI Record toolbar anywhere on the screen.
 
 3. Once the AI recording toolbar is displayed, click on the browser that you want to record
-	![step 1](/images/40_Create_UFT_AI_Based_Test/ai_record_toolbar.png)
+	![step 1](/images/040_create_uft_ai_based_test/ai_record_toolbar.png)
 
 	AI Record inspects the application and highlights the objects that it identifies. Visual elements and texts are highlighted in different colors.
 
@@ -58,7 +57,7 @@ The following steps are for recording the business flow of logging into the Adva
 
 	You can see the recording progress, step code, and recording result, as well as error messages in the toolbar:
 
-	![step 2](/images/40_Create_UFT_AI_Based_Test/aos_login.png)
+	![step 2](/images/040_create_uft_ai_based_test/aos_login.png)
 
 	Hover over the **Username** and **Password** fields and select **type** operation to input values for the respective fields
 
@@ -92,11 +91,11 @@ The following steps are for recording the business flow of logging into the Adva
 
 	Select **True** to check if the state is on or **False** to check if the state is off.
 
-	![step 3](/images/40_Create_UFT_AI_Based_Test/exists_notexists.png)
+	![step 3](/images/040_create_uft_ai_based_test/exists_notexists.png)
 
 	To confirm that the login is successful, hover over the logged-in username i.e. text block **"aidemo"** and select **Add Checkpoint**, then select the **"Exists"** radio button to add a checkpoint step
 
-	![step 3](/images/40_Create_UFT_AI_Based_Test/checkpoint.png)
+	![step 3](/images/040_create_uft_ai_based_test/checkpoint.png)
 
 	**AIUtil.FindTextBlock("aidemo").CheckExists True**
 
@@ -105,14 +104,14 @@ The following steps are for recording the business flow of logging into the Adva
 	The checkpoint for verifying existence applies to all **Visual elements** and **Texts**.
 
 	The checkpoint for verifying states applies only to objects with an **On/Off** state, such as toggles, check boxes, and radio buttons.
-	
+
 7. Hover over the **Search** icon and select the **Search** operation, enter text “17t” as search keyword
 
 	**AIUtil("search").Search "17t"**
 
 	The keyword search should be successful and display all the items that match the search criteria
 
-	![step 3](/images/40_Create_UFT_AI_Based_Test/keyword_search.png)
+	![step 3](/images/040_create_uft_ai_based_test/keyword_search.png)
 
 8. Click on the **“HP ENVY – 17t touch”** text block to select the item from the search results
 
@@ -156,7 +155,7 @@ The following steps are for recording the business flow of logging into the Adva
 
 13. To proceed with the **SafePay** payment option, enter the Username and Password, and uncheck "save changes in profile for future use" (as this will impact the test execution)
 
-	![step 4](/images/40_Create_UFT_AI_Based_Test/order_payment.png)
+	![step 4](/images/040_create_uft_ai_based_test/order_payment.png)
 
 	**AIUtil("input", "SafePay username").Type "aidemo"**
 
@@ -168,13 +167,13 @@ The following steps are for recording the business flow of logging into the Adva
 
 	**AIUtil("button", "PAY NOW").Click**
 
-	Notice that the "MasterCredit" option icon in the ORDER PAYMENT screen is not recognized using AI-based identification. You can provide feedback about this to the Micro Focus R&D team by following the instructions on [Feedback Tool to share about AI based object identication](/40_create_uft_ai_based_test/7_ai_based_testing_feedback_tool.html)**
+	Notice that the "MasterCredit" option icon in the ORDER PAYMENT screen is not recognized using AI-based identification. You can provide feedback about this to the Micro Focus R&D team by following the instructions on [Feedback Tool to share about AI based object identication](/040_create_uft_ai_based_test/7_ai_based_testing_feedback_tool.html)**
 
 14. Add a **Checkpoint** to verify successful payment confirmation
 
 	**AIUtil.FindTextBlock("Thank you for buying with Advantage").CheckExists True**
 
-	![step 5](/images/40_Create_UFT_AI_Based_Test/order_confirmation.png)
+	![step 5](/images/040_create_uft_ai_based_test/order_confirmation.png)
 
 15. Click on the **profile** icon and select **Sign out** to logout from the AOS application
 

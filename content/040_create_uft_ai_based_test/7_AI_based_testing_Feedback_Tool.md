@@ -2,7 +2,6 @@
 title: "AI-based Testing Feedback Tool"
 chapter: false
 weight: 47
-pre: "<b>4.7 </b>"
 ---
 
 ## AI-based testing Feedback Tool overview
@@ -50,11 +49,11 @@ As prerequisite, **REGISTER** with the feedback server by providing necessary de
 
 2.	Click **AI Identification** from the UFT One toolbar to inspect the **"ORDER PAYMENT"** page:
 
-	![step 1](/images/40_Create_UFT_AI_Based_Test/feedback.PNG)
+	![step 1](/images/040_create_uft_ai_based_test/feedback.PNG)
 
 3. Click **How is the detection? Help us improve** to open the Feedback Tool and **LOGIN** to the feedback server
 
 4. Mark the **"MasterCredit"** object not identified by AI and share feedback
 
-	![step 2](/images/40_Create_UFT_AI_Based_Test/master_credit.png)
+	![step 2](/images/040_create_uft_ai_based_test/master_credit.png)
 

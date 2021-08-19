@@ -2,7 +2,6 @@
 title: "Launch EC2 Instance"
 chapter: false
 weight: 32
-pre: "<b>3.2 </b>"
 ---
 
 ## Launch EC2 Instance
@@ -11,7 +10,7 @@ pre: "<b>3.2 </b>"
 
 1. It is recommended to select the **m4.xlarge** instance type.
 
-![Step 1](/images/30_Initiate_UFTOne_Instance/choose_instance.png)
+![Step 1](/images/030_initiate_uftone_instance/choose_instance.png)
 
 Click **Next: Configure Instance Details**.
 
@@ -19,7 +18,7 @@ Click **Next: Configure Instance Details**.
 
 2. Configure the instance details based on your account's requirements, following your organization's requirements.
 
-![Step 2](/images/30_Initiate_UFTOne_Instance/instance_details.png)
+![Step 2](/images/030_initiate_uftone_instance/instance_details.png)
 
 Click **Next: Add Storage**.
 
@@ -27,7 +26,7 @@ Click **Next: Add Storage**.
 
 3. It is recommended to have at least 80 GB free in the Root **Volume Type**.
 
-![Step 3](/images/30_Initiate_UFTOne_Instance/add_storage.png)
+![Step 3](/images/030_initiate_uftone_instance/add_storage.png)
 
 Click **Next: Add Tags**.
 
@@ -35,7 +34,7 @@ Click **Next: Add Tags**.
 
 4. It is recommended to add personal tags in order to easily identify this instance. As example:
 
-![Step 4](/images/30_Initiate_UFTOne_Instance/tags.png)
+![Step 4](/images/030_initiate_uftone_instance/tags.png)
 
 Click **Next: Configure Security Group**.
 
@@ -43,7 +42,7 @@ Click **Next: Configure Security Group**.
 
 5. It is recommended that you configure the security group with your IP. If you want to open the server for global access, keep the **Source** as 0.0.0.0/0
 
-![Step 5](/images/30_Initiate_UFTOne_Instance/security_group2.png)
+![Step 5](/images/030_initiate_uftone_instance/security_group2.png)
 
 Click **Next: Review and Launch**.
 
@@ -55,7 +54,7 @@ Click **Next: Review and Launch**.
 
 7. If you have an existing key-value pair, select it. If not, create a new one, and click **Download Key Pair**.
 
-![Step 6](/images/30_Initiate_UFTOne_Instance/create_key_pair.png)
+![Step 6](/images/030_initiate_uftone_instance/create_key_pair.png)
 
 **:white_check_mark: Click Launch Instances**.
 
