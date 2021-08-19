@@ -1,6 +1,6 @@
 ---
 title: "Who is Micro Focus?"
-chapter: false
+chapter: true
 weight: 14
 ---
 
