@@ -4,9 +4,9 @@ chapter: false
 weight: 50
 ---
 
-In this workshop, we demonstrated how UFT One provides a DevOps-enabled toolchain with innovations in AI-based testing that are sure to start revolutionizing the way you test.
+In this workshop, we demonstrated how AI helps run faster and are more cost-effective than manual tests. Testers can increase automation efficiency even further with artificial intelligence to simplify and improve test creation, execution, and maintenance. With AI infused throughout the UFT Family, testers can reduce test creation time, boost test coverage, increase resiliency of testing assets, and cut down on test maintenance efforts.
 
-Now that you have a better understanding of how UFT One continues to innovate, let us help you to learn more about Micro Focus' industry-leading functional test automation solution.
+![UFT One AI Benefits](/images/050_conclusion/ai-benefits.PNG)
 
 >[Join our UFT One Community ›](https://community.microfocus.com/adtd/uft)
 >
