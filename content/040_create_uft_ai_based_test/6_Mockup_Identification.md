@@ -1,5 +1,5 @@
 ---
-title: "Test Objects Identification using Application Mockups"
+title: "6. Test Objects Identification using Application Mockups"
 chapter: false
 weight: 46
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Getting Started"
+title: "1. Getting Started"
 chapter: false
 weight: 41
 ---
