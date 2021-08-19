@@ -3,6 +3,7 @@ title: "Conclusion"
 chapter: true
 weight: 50
 ---
+# Conclusion 
 
 In this workshop, we demonstrated how AI helps run faster and are more cost-effective than manual tests. Testers can increase automation efficiency even further with artificial intelligence to simplify and improve test creation, execution, and maintenance. With AI infused throughout the UFT Family, testers can reduce test creation time, boost test coverage, increase resiliency of testing assets, and cut down on test maintenance efforts.
 

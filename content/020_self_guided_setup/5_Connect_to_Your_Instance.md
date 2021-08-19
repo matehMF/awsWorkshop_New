@@ -1,31 +1,23 @@
 ---
-title: "Connect to Your Instance"
+title: "5. Connect to Your Instance"
 chapter: false
 weight: 33
 ---
 
 ## Connect to your instance
 
-**:white_check_mark: Find your Instance**
 
-1. Search and find your instance based on the tag you created. Make sure the instance is in the **running** State. Select it and **Connect**.
+1. Search and find your instance based on the tag you created. Make sure the instance is in **running** State. Select it and **Connect**.
+![Step 1](/images/020_self_guided_setup/connect.png)
 
-![Step 1](/images/030_initiate_uftone_instance/connect.png)
+1. Switch to **RDP Client**, and click **Download remote desktop file**. Then click on **Get password**.
+![Step 2](/images/020_self_guided_setup/retrive_password.png)
 
-**:white_check_mark: Retrieve Password**
+1. On the **Get Windows password** page, click **Browse** to retrieve your **.pem** file and click **Decrypt Password**.
 
-2. Switch to **RDP Client**, and click **Download remote desktop file**. Then click on **Get password**.
+![Step 3](/images/020_self_guided_setup/get_password.png)
 
-![Step 2](/images/030_initiate_uftone_instance/retrive_password.png)
+1. Double click the **Remote Desktop file** you downloaded, then enter the credentials you retrieved.
 
-On the **Get Windows password** page, click **Browse** to retrieve your **.pem** file and click **Decrypt Password**.
-
-![Step 3](/images/030_initiate_uftone_instance/get_password.png)
-
-**:white_check_mark: Connect to the UFT One Instance**
-
-4. Double click on the **Remote Desktop file** you downloaded, and enter the credentials you retrieved.
-
-5. After connecting, double click on the **UFT One** desktop icon to start the application.
-
-![Step 4](/images/030_initiate_uftone_instance/double_click_on_uft_button.png)
+1. After connecting, double click the **Micro Focus Unified ...** desktop icon to start the **UFT One** application.
+![Step 4](/images/020_self_guided_setup/double_click_on_uft_button.png)
