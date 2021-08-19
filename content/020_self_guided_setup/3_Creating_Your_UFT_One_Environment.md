@@ -6,7 +6,7 @@ weight: 31
 
 ## Starting the AWS EC2 UFT One Instance
 
-In this section we will explain how to set up your UFT One environment from the AWS Marketplace image. UFT One is available from the [AWS Marketplace] (https://aws.amazon.com/marketplace/pp/prodview-q2d32aqrwglr4).
+In this section we will explain how to set up your UFT One environment from the [AWS Marketplace] (https://aws.amazon.com/marketplace/pp/prodview-q2d32aqrwglr4).
 
 
 **UFT One is a desktop application, and should be accesssed via Remote Desktop (RDP) to the Windows server.**
