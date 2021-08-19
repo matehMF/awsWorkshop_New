@@ -9,13 +9,11 @@ Micro Focus UFT One accelerates and simplifies end-to-end functional testing wit
 
 UFT One is also a leader in the AI revolution for test automation. Its AI-based capabilities include computer vision, machine learning and advanced optical character recognition (OCR). Combined with AI-based mockup identification, recording, text matching, and image-based automation, DevOps teams benefit from:
 
-- Reduced test creation time.
-- Streamlined test maintenance efforts.
-- Increased test coverage.
-- Improved resiliency of testing assets.
+![UFT One AI Benefits](/images/010_introduction/ai-benefits.PNG)
 
-> See the benefits of combining AI-based capabilities with intelligent test automation:
->
-> [Watch the video ›](https://players.brightcove.net/5456344257001/HkaDA1joZ_default/index.html?videoId=6198914670001&utm_campaign=00175416)
+### Learn More about UFT One
 
-![UFT One AI](/images/010_introduction/uft-one-ai.jpg)
+- [Join our UFT One Community ›](https://community.microfocus.com/adtd/uft)
+- [Learn what’s new in our Online Help Center ›](https://admhelp.microfocus.com/uft/en/latest/UFT_Help/Content/Resources/_TopNav/_TopNav_Home.htm)
+- [See what real UFT One users have to say ›](https://www.microfocus.com/en-us/resource-center/case-study?product=UFT%20One)
+- [Explore our marketplace of available educational courses ›](https://marketplace.microfocus.com/education/category/all?product=UFT-One)
