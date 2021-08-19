@@ -1,5 +1,5 @@
 ---
-title: "DevOps Landscape Today"
+title: "1. DevOps Landscape Today"
 chapter: true
 weight: 10
 ---

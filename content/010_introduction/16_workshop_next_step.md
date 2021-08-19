@@ -1,5 +1,5 @@
 ---
-title: "Workshop Next Steps"
+title: "4. Workshop Next Steps"
 chapter: true
 weight: 16
 ---

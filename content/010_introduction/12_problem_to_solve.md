@@ -1,5 +1,5 @@
 ---
-title: "AI-driven Future for DevOps"
+title: "2. AI-driven Future for DevOps"
 chapter: true
 draft: false
 weight: 12
