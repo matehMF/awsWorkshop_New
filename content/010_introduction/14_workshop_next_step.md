@@ -1,7 +1,7 @@
 ---
 title: "4. Workshop Next Steps"
 chapter: true
-weight: 16
+weight: 14
 ---
 
 # Workshop Prerequisites
