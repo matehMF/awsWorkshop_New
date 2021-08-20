@@ -6,7 +6,7 @@ weight: 1
 
 # AWS Workshop with Micro Focus UFT One
 
-![Micro Focus](/images/main/uft-one-blue.png)
+![Micro Focus](/images/main/mf_uftone.png)
 
 Welcome to the AWS Workshop with Micro Focus [UFT One](https://www.microfocus.com/products/uft-one/overview). Today, we are going to learn why AI-based testing in UFT One is an essential DevOps practice that builds quality into your application delivery pipeline.
 
