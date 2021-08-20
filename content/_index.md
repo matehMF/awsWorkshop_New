@@ -10,7 +10,7 @@ weight: 1
 
 Welcome to the AWS Workshop with Micro Focus [UFT One](https://www.microfocus.com/products/uft-one/overview). Today, we are going to learn why AI-based testing in UFT One is an essential DevOps practice that builds quality into your application delivery pipeline.
 
-#### Workshop Structure
+### Workshop Structure
 This workshop is broken into the following sections:
 
 * Introduction
@@ -20,10 +20,10 @@ This workshop is broken into the following sections:
 * Cleanup
 * Survey
 
-#### Expected Duration
+### Expected Duration
 Estimated time for completing the workshop is approximately 2 hours.
 
-#### Who Should Attend
+### Who Should Attend
 * Test Automation Engineers
 * DevOps Engineers
 * QA Engineers

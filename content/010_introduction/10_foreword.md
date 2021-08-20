@@ -1,10 +1,10 @@
 ---
-title: "1. DevOps Landscape Today"
+title: "1. The DevOps Landscape Today"
 chapter: true
 weight: 10
 ---
 
-# Why Enterprises Are Embracing DevOps
+# Why Enterprises Embrace DevOps
 Before diving into the innovations around UFT One and AI, it's important to understand the role that DevOps plays in delivering high-quality applications to production at any time. It attempts to remove artificial impediments and empowers the team to be responsible and accountable for the applications they build and release. And with customer expectations are as high as timelines are short, delivering value at the “speed of business” requires aligning business needs with the application delivery process. Today, that process includes:
 
 - Removing constraints to avoid technical debt.

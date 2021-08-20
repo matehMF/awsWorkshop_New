@@ -2,7 +2,7 @@ baseURL = "/"
 languageCode = "en-US"
 defaultContentLanguage = "oyo"
 
-title = "AWS UFT One Workshop"
+title = "AWS Workshop with Micro Focus UFT One"
 theme = "hugo-theme-learn"
 metaDataFormat = "yaml"
 defaultContentLanguageInSubdir= "false"
@@ -17,7 +17,7 @@ enableEmoji = true
   # Author of the site, will be used in meta information
   author = "Micro Focus"
   # Description of the site, will be used in meta information
-  description = "AWS UFT One Workshop"
+  description = "AWS Workshop with Micro Focus UFT One"
   # Shows a checkmark for visited pages on the menu
   showVisitedLinks = true
   # Disable search function. It will hide search bar
